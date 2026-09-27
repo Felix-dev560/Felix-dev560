@@ -11,6 +11,7 @@ JavaScript, PHP, Python, C++
 Web Technologies & Frameworks:
 HTML5, CSS3, Data Handling
 Database Management Systems: MySQL, Structured Architecture Design
+
 ---
 
 Performance Metrics & Languages
